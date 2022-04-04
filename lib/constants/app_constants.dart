@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class Sabitler {
   static const MaterialColor anaRenk = Colors.purple;
-  static const String baslikText = "Umut";
+  static const String baslikText = "Gano Hesaplama";
   static final TextStyle baslikStyle = TextStyle(
       fontFamily: "RobotoMono",
       fontSize: 24,
