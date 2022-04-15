@@ -1,4 +1,4 @@
-# dinamik_ortalama_hesapla
+# College GPA Calculator
 
 A new Flutter project.
 
